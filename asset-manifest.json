@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://madhuhari188.github.io/csb-kvosoy/static/css/main.4e67fbf5.chunk.css",
+    "main.js": "https://madhuhari188.github.io/csb-kvosoy/static/js/main.f000ed9c.chunk.js",
+    "main.js.map": "https://madhuhari188.github.io/csb-kvosoy/static/js/main.f000ed9c.chunk.js.map",
+    "runtime-main.js": "https://madhuhari188.github.io/csb-kvosoy/static/js/runtime-main.f78082d1.js",
+    "runtime-main.js.map": "https://madhuhari188.github.io/csb-kvosoy/static/js/runtime-main.f78082d1.js.map",
+    "static/js/2.93e36e0b.chunk.js": "https://madhuhari188.github.io/csb-kvosoy/static/js/2.93e36e0b.chunk.js",
+    "static/js/2.93e36e0b.chunk.js.map": "https://madhuhari188.github.io/csb-kvosoy/static/js/2.93e36e0b.chunk.js.map",
+    "index.html": "https://madhuhari188.github.io/csb-kvosoy/index.html",
+    "static/css/main.4e67fbf5.chunk.css.map": "https://madhuhari188.github.io/csb-kvosoy/static/css/main.4e67fbf5.chunk.css.map",
+    "static/js/2.93e36e0b.chunk.js.LICENSE.txt": "https://madhuhari188.github.io/csb-kvosoy/static/js/2.93e36e0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f78082d1.js",
+    "static/js/2.93e36e0b.chunk.js",
+    "static/css/main.4e67fbf5.chunk.css",
+    "static/js/main.f000ed9c.chunk.js"
+  ]
+}
